@@ -22,7 +22,7 @@
 
 </div>
 
-  ![snake gif](https://github.com/Edumonteiro02/Edumonteiro02/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Edumonteiro02/Edumonteiro02/blob/output/github-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Edumonteiro02&icon=8&color=0)](https://visitcount.itsvg.in)
