@@ -11,9 +11,12 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Edumonteiro02&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Edumonteiro02&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edumonteiro02&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Edumonteiro02&icon=8&color=0)](https://visitcount.itsvg.in)
