@@ -16,12 +16,15 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Edumonteiro02&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Edumonteiro02&theme=transparent&hide_border=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Edumonteiro02&theme=transparent&hide_border=false" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edumonteiro02&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
-  
+
+<div align="center">
+  ![snake gif](https://github.com/Edumonteiro02/Edumonteiro02/blob/output/github-snake-dark.svg)
+  </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Edumonteiro02&icon=8&color=0)](https://visitcount.itsvg.in)
